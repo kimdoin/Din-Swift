@@ -29,5 +29,9 @@
 #### Naming Convention(이름 정의 규칙)
 식별자의 이름을 정의할 때 따라야 하는 CamelCase라고 불리는 규칙.
 * UpperCamelCase: 규칙 자체의 이름에서 보이듯이 식별자의 첫 단어는 대분자'U'로 지정되어 있고, 그 뒤에 CamelCase 같이 서로 상이한 단어들을 구분 짓기 위해서 각 단어의 시작을 대문자로 하고, 나머지 문자는 모두 소문자로 지정 
- ** Class, Struct, Enum, Extension, Protocol 
+  * 클래스, 구조체, 열거형, 익스텐션, 프로토콜 이름
+* lowerCamelCase: 항상 식별자의 첫 번째 문자는 소문자로 표기해야 하며, 나머지는 UpperCamelCase와 동일
+  * 변수, 상수, 함수, 속성, 메소드, 파라미터 이름
+
+
 

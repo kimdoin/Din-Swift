@@ -1,0 +1,26 @@
+# 1. Type Inference & Type Annotation
+* 형식 추론은 초기값을 통해 자료형을 유추하는 것이기 때문에, 초기값이 없다면 형식추론이 이루어지지 않는다.
+* 자료형을 직접 지정할 수 있는데, 이걸 Type Annotation이라고 한다.
+* 직접 자료형을 지정해주면 자료형을 추론하는 시간을 줄일 수 있고, 결과적으로 컴파일 시간을 단축할 수 있다.
+```swift
+var month = "October" // 선언과 초기화를 동시에
+
+var year: Int // 선언
+year = 2021 // 초기화
+let name = "Kim"
+```
+
+# 2. Type Conversion
+* 자료형이 다르면, 연산이나 값을 저장하는 것이 불가능 하기 때문에 메모리에 저장된 값을 다른 형식으로 바꿔서 새로운 값을 생성해준다.
+* `자료형이름(Conversion할 값)`의 형태로 사용할 수 있다.
+```swift
+var str = "내 몸무게는 "
+var weight = 70
+
+var result = str + String(weight) // 내 몸무게는 70
+
+var strA = "123"
+var num = 123
+
+strA + String(num) // 123123
+```

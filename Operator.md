@@ -55,7 +55,7 @@ let d = 20.7
 
 c.truncatingRemainder(dividingBy: d)
 ```
-* **overflow**
+### <**overflow**>
 * overflow는 자료형에 저장할 수 있는 값의 범위를 초과하는 것을 말한다.
 * 연산자 앞에 &를 붙여 사용
 * &+, &-, &*

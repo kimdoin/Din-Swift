@@ -9,7 +9,7 @@
 * [Conditional Statement](https://github.com/kimdoin/Din-Swift/blob/main/6.%20Conditional%20Statement.md) 조건문 
 * [Loop Statement](https://github.com/kimdoin/Din-Swift/blob/main/7.%20Loop%20Statement.md) 반복문, 제어전달문
 * [Optional](https://github.com/kimdoin/Din-Swift/blob/main/8.%20Optional.md) 옵셔널
-*  ddasdasdas
+* [Function](https://github.com/kimdoin/Din-Swift/blob/main/9.%20Function.md)  함수
 *  ddasdasdas
 * v
 * k

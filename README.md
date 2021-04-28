@@ -10,8 +10,8 @@
 * [Loop Statement](https://github.com/kimdoin/Din-Swift/blob/main/7.%20Loop%20Statement.md) 반복문, 제어전달문
 * [Optional](https://github.com/kimdoin/Din-Swift/blob/main/8.%20Optional.md) 옵셔널
 * [Function](https://github.com/kimdoin/Din-Swift/blob/main/9.%20Function.md)  함수
-* [Closure](https://github.com/kimdoin/Din-Swift/blob/main/10.%20Closures.md) 클로저 
-* [Tuple](https://github.com/kimdoin/Din-Swift/blob/main/11.%20Tuple.md) 튜플
+* [Closure](https://github.com/kimdoin/Din-Swift/blob/main/2-1.%20Closures.md) 클로저 
+* [Tuple](https://github.com/kimdoin/Din-Swift/blob/main/2-2.%20Tuple.md) 튜플
 * [String & Character](https://github.com/kimdoin/Din-Swift/blob/main/2-3.%20String%20&%20Character.md) 문자열과 문자 
 * 
 * k

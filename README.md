@@ -12,5 +12,6 @@
 * [Function](https://github.com/kimdoin/Din-Swift/blob/main/9.%20Function.md)  함수
 * [Closure](https://github.com/kimdoin/Din-Swift/blob/main/10.%20Closures.md) 클로저 
 * [Tuple](https://github.com/kimdoin/Din-Swift/blob/main/11.%20Tuple.md) 튜플
+* [String * Character](https://github.com/kimdoin/Din-Swift/blob/main/2-3.%20String%20&%20Character.md) 문자열과 문자 
 * 
 * k
